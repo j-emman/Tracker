@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|c:\\users\\admin\\documents\\training\\new folder\\tracker\\forms\\activitymanager_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|c:\\users\\admin\\source\\repos\\tracker\\forms\\activitymanager_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:forms\\activitymanager_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\forms\\activitymanager_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:forms\\activitymanager_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Login_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:Forms\\Login_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\forms\\main_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:forms\\main_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\UserControls\\UserControls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:UserControls\\UserControls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:Forms\\Main_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\ActivityManager_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:Forms\\ActivityManager_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:Forms\\Main_Form.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\usercontrols\\usercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:usercontrols\\usercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\forms\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:forms\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\forms\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\forms\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:forms\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,15 +42,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ActivityManager_Form.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\ActivityManager_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\ActivityManager_Form.cs",
               "RelativeDocumentMoniker": "Forms\\ActivityManager_Form.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\ActivityManager_Form.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\ActivityManager_Form.cs",
               "RelativeToolTip": "Forms\\ActivityManager_Form.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ActivityManager_Form.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\ActivityManager_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\ActivityManager_Form.cs",
               "RelativeDocumentMoniker": "Forms\\ActivityManager_Form.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\ActivityManager_Form.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\ActivityManager_Form.cs [Design]",
               "RelativeToolTip": "Forms\\ActivityManager_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T01:00:49.346Z",
@@ -71,73 +75,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Main_Form.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\Main_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\Main_Form.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\Main_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.Designer.cs",
               "RelativeToolTip": "Forms\\Main_Form.Designer.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAMwCoAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T02:42:47.145Z"
+              "WhenOpened": "2024-07-31T02:42:47.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserControls.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\UserControls\\UserControls.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\UserControls\\UserControls.cs",
               "RelativeDocumentMoniker": "UserControls\\UserControls.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\UserControls\\UserControls.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\UserControls\\UserControls.cs",
               "RelativeToolTip": "UserControls\\UserControls.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:58:42.639Z"
+              "WhenOpened": "2024-07-31T01:58:42.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Main_Form.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\Main_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.cs",
               "RelativeDocumentMoniker": "Forms\\Main_Form.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\Main_Form.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.cs",
               "RelativeToolTip": "Forms\\Main_Form.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:50:01.732Z"
+              "WhenOpened": "2024-07-31T01:50:01.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Login_Form.cs",
+              "RelativeDocumentMoniker": "Forms\\Login_Form.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Login_Form.cs",
+              "RelativeToolTip": "Forms\\Login_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T01:48:11.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Login_Form.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\Login_Form.cs",
-              "RelativeDocumentMoniker": "Forms\\Login_Form.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\Login_Form.cs",
-              "RelativeToolTip": "Forms\\Login_Form.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:48:11.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Main_Form.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\Main_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.cs",
               "RelativeDocumentMoniker": "Forms\\Main_Form.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\Main_Form.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.cs [Design]",
               "RelativeToolTip": "Forms\\Main_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T00:59:59.368Z"
+              "WhenOpened": "2024-07-31T00:59:59.368Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Login_Form.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\Login_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Login_Form.cs",
               "RelativeDocumentMoniker": "Forms\\Login_Form.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Training\\New folder\\Tracker\\Forms\\Login_Form.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Login_Form.cs [Design]",
               "RelativeToolTip": "Forms\\Login_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T00:53:37.889Z"
+              "WhenOpened": "2024-07-31T00:53:37.889Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
