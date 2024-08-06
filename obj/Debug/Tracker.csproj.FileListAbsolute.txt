@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Training\New folder\Tracker\bin\Debug\Tracker.exe.config
+C:\Users\Admin\Documents\Training\New folder\Tracker\bin\Debug\Tracker.exe
+C:\Users\Admin\Documents\Training\New folder\Tracker\bin\Debug\Tracker.pdb
+C:\Users\Admin\Documents\Training\New folder\Tracker\obj\Debug\Tracker.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Training\New folder\Tracker\obj\Debug\Tracker.Forms.ActivityManager_Form.resources
+C:\Users\Admin\Documents\Training\New folder\Tracker\obj\Debug\Tracker.Login_Form.resources
+C:\Users\Admin\Documents\Training\New folder\Tracker\obj\Debug\Tracker.Forms.Main_Form.resources
+C:\Users\Admin\Documents\Training\New folder\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+C:\Users\Admin\Documents\Training\New folder\Tracker\obj\Debug\Tracker.UserControls.TitleBar.resources
+C:\Users\Admin\Documents\Training\New folder\Tracker\obj\Debug\Tracker.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Training\New folder\Tracker\obj\Debug\Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Training\New folder\Tracker\obj\Debug\Tracker.exe
+C:\Users\Admin\Documents\Training\New folder\Tracker\obj\Debug\Tracker.pdb
