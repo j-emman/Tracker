@@ -24,16 +24,7 @@ namespace Tracker.Forms
 
         private void label15_Click(object sender, EventArgs e)
         {
-            //TESTING
-            //TESTING
-            //TESTING
-            //TESTING
-            //TESTING
-            //TESTING
 
-            /*
-             * comments to
-             */
         }
 
         private void button3_Click(object sender, EventArgs e)
