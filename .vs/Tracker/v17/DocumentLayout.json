@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Tracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\ActivityManager_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:Forms\\ActivityManager_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:Forms\\Main_Form.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|c:\\users\\admin\\source\\repos\\tracker\\forms\\activitymanager_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:forms\\activitymanager_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:Forms\\Main_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\ActivityManager_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:Forms\\ActivityManager_Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|solutionrelative:Forms\\Main_Form.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32492685-D3BF-4013-99A0-7616F6C523A1}|Tracker.csproj|C:\\Users\\Admin\\source\\repos\\Tracker\\forms\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ActivityManager_Form.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\ActivityManager_Form.cs",
               "RelativeDocumentMoniker": "Forms\\ActivityManager_Form.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\ActivityManager_Form.cs",
               "RelativeToolTip": "Forms\\ActivityManager_Form.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T02:48:20.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ActivityManager_Form.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\ActivityManager_Form.cs",
               "RelativeDocumentMoniker": "Forms\\ActivityManager_Form.cs",
@@ -75,20 +75,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Main_Form.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\Main_Form.Designer.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.Designer.cs",
               "RelativeToolTip": "Forms\\Main_Form.Designer.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAMwCoAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T02:42:47.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UserControls.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\UserControls\\UserControls.cs",
               "RelativeDocumentMoniker": "UserControls\\UserControls.cs",
@@ -96,12 +96,11 @@
               "RelativeToolTip": "UserControls\\UserControls.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:58:42.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T01:58:42.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Main_Form.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.cs",
               "RelativeDocumentMoniker": "Forms\\Main_Form.cs",
@@ -109,12 +108,11 @@
               "RelativeToolTip": "Forms\\Main_Form.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:50:01.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T01:50:01.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Login_Form.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Login_Form.cs",
               "RelativeDocumentMoniker": "Forms\\Login_Form.cs",
@@ -122,8 +120,7 @@
               "RelativeToolTip": "Forms\\Login_Form.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAYwBIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:48:11.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T01:48:11.923Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Main_Form.cs [Design]",
               "RelativeToolTip": "Forms\\Main_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T00:59:59.368Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-31T00:59:59.368Z"
             },
             {
               "$type": "Document",
@@ -146,8 +142,7 @@
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Tracker\\Forms\\Login_Form.cs [Design]",
               "RelativeToolTip": "Forms\\Login_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T00:53:37.889Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-31T00:53:37.889Z"
             }
           ]
         }

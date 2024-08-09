@@ -24,12 +24,21 @@ namespace Tracker.Forms
 
         private void label15_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
 
+=======
+            //TESTING
+            //TESTING
+            //TESTING
+            //TESTING
+            //TESTING
+            //TESTING
+>>>>>>> parent of ce2292b (commentrs)
         }
     }
 }
